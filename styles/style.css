@@ -22,3 +22,6 @@ a.nav-link:hover{
     background-color:midnightblue;
     color: ghostwhite;
 }
+div.card-body{
+    color: ghostwhite;
+}
