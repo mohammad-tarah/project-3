@@ -14,7 +14,7 @@
     border: 0;
 }
 body{
-    background-color:grey;
+    background-color:#E3E6E6;
 
 }
 
@@ -26,32 +26,37 @@ i.bi.bi-discord:hover{
     color: red;
 }
 i.bi.bi-discord{
-    background-color: midnightblue;
     width: 30px;
     height: 30px;
     border-radius: 5px;
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 100%;
+    background-color: #7289da ;
     color: ghostwhite;
-    text-decoration: underline ghostwhite;
+    text-decoration: none;
+    
 }
 a.nav-link:hover{
-    background-color:midnightblue;
+    background-color:ghostwhite;
+    color: #212529;
+}
+a.nav-link{
     color: ghostwhite;
+    font-family: FONT2;
 }
 div.card-body{
     color:midnightblue;
+    
 }
 div.navbar-brand{
     font-family:FONT1 ;
-    text-decoration: underline #0dcaf0;
-    color: #111;
 }
 a.nav-link{
     border-radius: 5px ;
 }
-nav.navbar.nav{}
+
 .card-tite{
-    color:rgb(33, 33, 33);
+    color:rgb(0, 0, 0);
 }
